@@ -50,7 +50,7 @@ mintNFT(3,"Baleno", "Maruti Suzuki", 193988);
 mintNFT(4,"Brezza", "Maruti Suzuki", 170588);
 mintNFT(5,"Nexon", "Tata", 170311);
 mintNFT(6,"Dzire", "Maruti Suzuki", 157522);
-mintNFT(7,"Creta", "Hyundia", 150311,);
+mintNFT(7,"Creta", "Hyundia", 150311);
 mintNFT(8,"Punch", "Tata", 150182);
 
 listNFTs();
